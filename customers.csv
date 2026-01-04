@@ -1,0 +1,521 @@
+customer_id,name,project_name,service_type,amount,date
+1,Prime Labs,Cybersecurity Audit - Prime Labs,Cybersecurity Audit,35539,2025-12-30
+2,Global Solutions,Cybersecurity Audit - Global Solutions,Cybersecurity Audit,28885,2025-12-30
+3,Dynamic Innovations,Blockchain POC - Dynamic Innovations,Blockchain POC,25289,2025-12-30
+4,Dynamic Labs,AI Implementation - Dynamic Labs,AI Implementation,32329,2025-12-30
+5,Elite Consulting,Data Analytics - Elite Consulting,Data Analytics,89020,2025-12-30
+6,Global Innovations,Blockchain POC - Global Innovations,Blockchain POC,94294,2025-12-30
+7,Prime Enterprises,Blockchain POC - Prime Enterprises,Blockchain POC,94961,2025-12-30
+8,Dynamic Digital,Mobile App Dev - Dynamic Digital,Mobile App Dev,57511,2025-12-30
+9,NextGen Group,Blockchain POC - NextGen Group,Blockchain POC,35885,2025-12-30
+10,Tech Digital,Blockchain POC - Tech Digital,Blockchain POC,46180,2025-12-30
+11,Tech Labs,IT Support Retainer - Tech Labs,IT Support Retainer,19758,2025-12-30
+12,Elite Consulting,IT Support Retainer - Elite Consulting,IT Support Retainer,19479,2025-12-30
+13,Global Soft,Blockchain POC - Global Soft,Blockchain POC,95865,2025-12-30
+14,Dynamic Consulting,Blockchain POC - Dynamic Consulting,Blockchain POC,82589,2025-12-30
+15,Tech Digital,Blockchain POC - Tech Digital,Blockchain POC,70857,2025-12-30
+16,Dynamic Networks,Blockchain POC - Dynamic Networks,Blockchain POC,79932,2025-12-30
+17,Global Group,IT Support Retainer - Global Group,IT Support Retainer,12243,2025-12-30
+18,Smart Group,Blockchain POC - Smart Group,Blockchain POC,71830,2025-12-30
+19,Alpha Enterprises,Cloud Migration - Alpha Enterprises,Cloud Migration,128179,2025-12-30
+20,Smart Networks,IT Support Retainer - Smart Networks,IT Support Retainer,8061,2025-12-30
+21,Omega Networks,Mobile App Dev - Omega Networks,Mobile App Dev,68513,2025-12-24
+22,Prime Soft,IT Support Retainer - Prime Soft,IT Support Retainer,16057,2025-12-24
+23,Future Solutions,Blockchain POC - Future Solutions,Blockchain POC,44994,2025-12-26
+24,Prime Innovations,Cloud Migration - Prime Innovations,Cloud Migration,139464,2025-12-28
+25,Smart Consulting,Custom ERP Dev - Smart Consulting,Custom ERP Dev,318820,2025-12-25
+26,Prime Soft,Cloud Migration - Prime Soft,Cloud Migration,115179,2025-12-26
+27,Global Consulting,Blockchain POC - Global Consulting,Blockchain POC,64021,2025-12-23
+28,Prime Solutions,AI Implementation - Prime Solutions,AI Implementation,144211,2025-12-28
+29,Future Solutions,Custom ERP Dev - Future Solutions,Custom ERP Dev,451053,2025-12-26
+30,Tech Consulting,Cloud Migration - Tech Consulting,Cloud Migration,170396,2025-12-24
+31,Alpha Group,Blockchain POC - Alpha Group,Blockchain POC,59363,2025-12-25
+32,Elite Labs,Blockchain POC - Elite Labs,Blockchain POC,87654,2025-12-28
+33,Dynamic Innovations,Mobile App Dev - Dynamic Innovations,Mobile App Dev,64697,2025-12-25
+34,Global Group,Blockchain POC - Global Group,Blockchain POC,51085,2025-12-23
+35,Future Solutions,Cloud Migration - Future Solutions,Cloud Migration,53829,2025-12-24
+36,NextGen Systems,Mobile App Dev - NextGen Systems,Mobile App Dev,34367,2025-12-26
+37,Elite Enterprises,Mobile App Dev - Elite Enterprises,Mobile App Dev,76298,2025-12-24
+38,NextGen Labs,IT Support Retainer - NextGen Labs,IT Support Retainer,14794,2025-12-28
+39,Global Innovations,Blockchain POC - Global Innovations,Blockchain POC,34937,2025-12-26
+40,Omega Systems,Blockchain POC - Omega Systems,Blockchain POC,22480,2025-12-24
+41,Future Soft,Blockchain POC - Future Soft,Blockchain POC,95514,2025-12-26
+42,Prime Soft,DevOps setup - Prime Soft,DevOps setup,44112,2025-12-28
+43,Elite Systems,Blockchain POC - Elite Systems,Blockchain POC,77180,2025-12-27
+44,Elite Labs,Blockchain POC - Elite Labs,Blockchain POC,84026,2025-12-28
+45,Alpha Labs,Cybersecurity Audit - Alpha Labs,Cybersecurity Audit,38850,2025-12-26
+46,Elite Consulting,Custom ERP Dev - Elite Consulting,Custom ERP Dev,302438,2025-12-23
+47,NextGen Solutions,Blockchain POC - NextGen Solutions,Blockchain POC,75256,2025-12-28
+48,Tech Labs,AI Implementation - Tech Labs,AI Implementation,33006,2025-12-28
+49,Alpha Soft,DevOps setup - Alpha Soft,DevOps setup,39070,2025-12-25
+50,Prime Consulting,IT Support Retainer - Prime Consulting,IT Support Retainer,7007,2025-12-23
+51,Elite Labs,Custom ERP Dev - Elite Labs,Custom ERP Dev,352793,2025-11-19
+52,Global Group,Custom ERP Dev - Global Group,Custom ERP Dev,168979,2025-01-19
+53,Dynamic Consulting,Custom ERP Dev - Dynamic Consulting,Custom ERP Dev,251309,2025-06-04
+54,Elite Labs,Blockchain POC - Elite Labs,Blockchain POC,71317,2025-03-31
+55,NextGen Solutions,Blockchain POC - NextGen Solutions,Blockchain POC,72398,2025-10-21
+56,Omega Enterprises,IT Support Retainer - Omega Enterprises,IT Support Retainer,14172,2025-07-28
+57,Prime Group,Cybersecurity Audit - Prime Group,Cybersecurity Audit,22461,2025-11-19
+58,Omega Labs,Data Analytics - Omega Labs,Data Analytics,26089,2025-11-08
+59,Prime Innovations,DevOps setup - Prime Innovations,DevOps setup,16614,2025-11-16
+60,Prime Enterprises,Blockchain POC - Prime Enterprises,Blockchain POC,28460,2025-10-05
+61,Tech Digital,Legacy Modernization - Tech Digital,Legacy Modernization,152637,2025-09-28
+62,Elite Digital,Mobile App Dev - Elite Digital,Mobile App Dev,41233,2025-06-05
+63,Dynamic Soft,Mobile App Dev - Dynamic Soft,Mobile App Dev,22953,2025-06-23
+64,Omega Labs,Custom ERP Dev - Omega Labs,Custom ERP Dev,199023,2025-11-18
+65,Global Labs,Blockchain POC - Global Labs,Blockchain POC,43081,2025-04-11
+66,Alpha Enterprises,Cloud Migration - Alpha Enterprises,Cloud Migration,128736,2025-09-27
+67,Future Innovations,Blockchain POC - Future Innovations,Blockchain POC,85046,2025-05-08
+68,NextGen Networks,Blockchain POC - NextGen Networks,Blockchain POC,43643,2025-02-02
+69,Dynamic Labs,Blockchain POC - Dynamic Labs,Blockchain POC,35707,2025-12-09
+70,Smart Labs,Blockchain POC - Smart Labs,Blockchain POC,79791,2025-11-30
+71,NextGen Digital,Mobile App Dev - NextGen Digital,Mobile App Dev,60887,2025-11-23
+72,Dynamic Group,Blockchain POC - Dynamic Group,Blockchain POC,35933,2025-02-19
+73,Smart Consulting,Cybersecurity Audit - Smart Consulting,Cybersecurity Audit,22282,2025-12-01
+74,Dynamic Solutions,Data Analytics - Dynamic Solutions,Data Analytics,97033,2025-04-05
+75,Future Consulting,Data Analytics - Future Consulting,Data Analytics,110630,2025-03-02
+76,Future Consulting,Blockchain POC - Future Consulting,Blockchain POC,37584,2025-05-02
+77,Alpha Group,Legacy Modernization - Alpha Group,Legacy Modernization,103782,2025-03-06
+78,Alpha Digital,Blockchain POC - Alpha Digital,Blockchain POC,81718,2025-04-03
+79,Dynamic Soft,Blockchain POC - Dynamic Soft,Blockchain POC,60253,2025-01-18
+80,Elite Labs,Blockchain POC - Elite Labs,Blockchain POC,35138,2025-04-17
+81,Prime Group,Data Analytics - Prime Group,Data Analytics,56001,2025-04-29
+82,Prime Soft,DevOps setup - Prime Soft,DevOps setup,20661,2025-05-22
+83,Elite Soft,DevOps setup - Elite Soft,DevOps setup,36618,2025-10-03
+84,Smart Digital,Blockchain POC - Smart Digital,Blockchain POC,21828,2025-04-26
+85,Future Group,Custom ERP Dev - Future Group,Custom ERP Dev,429241,2025-01-29
+86,Elite Networks,Data Analytics - Elite Networks,Data Analytics,108943,2025-10-26
+87,NextGen Labs,Blockchain POC - NextGen Labs,Blockchain POC,30594,2025-05-30
+88,Dynamic Solutions,IT Support Retainer - Dynamic Solutions,IT Support Retainer,18021,2025-08-20
+89,Future Group,Data Analytics - Future Group,Data Analytics,41124,2025-01-02
+90,Omega Systems,Cybersecurity Audit - Omega Systems,Cybersecurity Audit,45102,2025-12-20
+91,Omega Enterprises,Blockchain POC - Omega Enterprises,Blockchain POC,90375,2025-01-12
+92,Omega Innovations,AI Implementation - Omega Innovations,AI Implementation,122339,2025-01-25
+93,Global Soft,IT Support Retainer - Global Soft,IT Support Retainer,13981,2025-01-04
+94,NextGen Digital,Data Analytics - NextGen Digital,Data Analytics,119992,2025-12-02
+95,Omega Soft,AI Implementation - Omega Soft,AI Implementation,111812,2025-01-05
+96,NextGen Group,Cloud Migration - NextGen Group,Cloud Migration,60871,2025-04-07
+97,Smart Soft,Blockchain POC - Smart Soft,Blockchain POC,34624,2025-03-08
+98,Global Consulting,Data Analytics - Global Consulting,Data Analytics,86014,2025-05-23
+99,Alpha Consulting,Mobile App Dev - Alpha Consulting,Mobile App Dev,35882,2025-05-01
+100,Dynamic Innovations,Blockchain POC - Dynamic Innovations,Blockchain POC,94160,2025-03-15
+101,Smart Digital,Blockchain POC - Smart Digital,Blockchain POC,67099,2025-08-07
+102,Tech Systems,Cybersecurity Audit - Tech Systems,Cybersecurity Audit,11259,2025-11-25
+103,Prime Innovations,Blockchain POC - Prime Innovations,Blockchain POC,74595,2025-05-25
+104,Prime Systems,Blockchain POC - Prime Systems,Blockchain POC,22497,2025-05-14
+105,Future Networks,Blockchain POC - Future Networks,Blockchain POC,73348,2025-12-11
+106,Dynamic Consulting,Mobile App Dev - Dynamic Consulting,Mobile App Dev,40468,2025-03-28
+107,Global Innovations,Blockchain POC - Global Innovations,Blockchain POC,86849,2025-03-27
+108,Global Innovations,Data Analytics - Global Innovations,Data Analytics,45957,2025-04-26
+109,Tech Networks,Cloud Migration - Tech Networks,Cloud Migration,121662,2025-09-10
+110,Smart Enterprises,Custom ERP Dev - Smart Enterprises,Custom ERP Dev,382720,2025-09-10
+111,Alpha Enterprises,Blockchain POC - Alpha Enterprises,Blockchain POC,90949,2025-08-21
+112,Global Labs,Cloud Migration - Global Labs,Cloud Migration,199077,2025-07-07
+113,Tech Consulting,Custom ERP Dev - Tech Consulting,Custom ERP Dev,468406,2025-01-14
+114,Smart Solutions,Cybersecurity Audit - Smart Solutions,Cybersecurity Audit,22787,2025-01-19
+115,Global Solutions,Legacy Modernization - Global Solutions,Legacy Modernization,136589,2025-11-02
+116,NextGen Consulting,Legacy Modernization - NextGen Consulting,Legacy Modernization,144201,2025-01-22
+117,Elite Digital,Blockchain POC - Elite Digital,Blockchain POC,57372,2025-04-23
+118,Tech Innovations,Blockchain POC - Tech Innovations,Blockchain POC,62380,2025-02-22
+119,Global Consulting,IT Support Retainer - Global Consulting,IT Support Retainer,9083,2025-03-25
+120,Smart Networks,DevOps setup - Smart Networks,DevOps setup,24807,2025-04-08
+121,NextGen Solutions,Mobile App Dev - NextGen Solutions,Mobile App Dev,57858,2025-08-26
+122,Dynamic Solutions,Data Analytics - Dynamic Solutions,Data Analytics,56303,2025-02-02
+123,Elite Digital,DevOps setup - Elite Digital,DevOps setup,30299,2025-09-19
+124,NextGen Solutions,Data Analytics - NextGen Solutions,Data Analytics,57394,2025-08-07
+125,Prime Soft,Blockchain POC - Prime Soft,Blockchain POC,38296,2025-01-26
+126,Future Digital,Cybersecurity Audit - Future Digital,Cybersecurity Audit,16151,2025-07-19
+127,NextGen Systems,Blockchain POC - NextGen Systems,Blockchain POC,53753,2025-10-04
+128,Smart Innovations,Data Analytics - Smart Innovations,Data Analytics,119852,2025-07-25
+129,Future Digital,Blockchain POC - Future Digital,Blockchain POC,86681,2025-02-26
+130,Future Group,Blockchain POC - Future Group,Blockchain POC,37960,2025-07-28
+131,Future Soft,Blockchain POC - Future Soft,Blockchain POC,23056,2025-04-21
+132,Dynamic Enterprises,Blockchain POC - Dynamic Enterprises,Blockchain POC,58234,2025-05-25
+133,Omega Systems,IT Support Retainer - Omega Systems,IT Support Retainer,11761,2025-08-17
+134,Prime Enterprises,Cloud Migration - Prime Enterprises,Cloud Migration,186607,2025-09-22
+135,Elite Systems,Blockchain POC - Elite Systems,Blockchain POC,87466,2025-08-21
+136,Future Innovations,Blockchain POC - Future Innovations,Blockchain POC,55576,2025-10-17
+137,Prime Soft,Blockchain POC - Prime Soft,Blockchain POC,46279,2025-03-30
+138,Alpha Enterprises,Blockchain POC - Alpha Enterprises,Blockchain POC,60476,2025-12-29
+139,Smart Networks,Blockchain POC - Smart Networks,Blockchain POC,74710,2025-12-25
+140,Prime Soft,DevOps setup - Prime Soft,DevOps setup,47443,2025-06-08
+141,Omega Enterprises,Custom ERP Dev - Omega Enterprises,Custom ERP Dev,190688,2025-04-21
+142,Tech Labs,Blockchain POC - Tech Labs,Blockchain POC,75015,2025-02-08
+143,Dynamic Innovations,Custom ERP Dev - Dynamic Innovations,Custom ERP Dev,488447,2025-05-02
+144,Alpha Group,Mobile App Dev - Alpha Group,Mobile App Dev,28490,2025-01-10
+145,NextGen Group,Blockchain POC - NextGen Group,Blockchain POC,33102,2025-08-04
+146,Smart Enterprises,Blockchain POC - Smart Enterprises,Blockchain POC,74364,2025-08-06
+147,Elite Digital,Blockchain POC - Elite Digital,Blockchain POC,56221,2025-12-11
+148,Smart Soft,Mobile App Dev - Smart Soft,Mobile App Dev,31703,2025-05-30
+149,Alpha Labs,Legacy Modernization - Alpha Labs,Legacy Modernization,104082,2025-09-03
+150,Dynamic Networks,Cloud Migration - Dynamic Networks,Cloud Migration,147549,2025-06-25
+151,Alpha Digital,AI Implementation - Alpha Digital,AI Implementation,79081,2025-07-02
+152,Smart Systems,Custom ERP Dev - Smart Systems,Custom ERP Dev,170977,2025-12-11
+153,Tech Enterprises,Legacy Modernization - Tech Enterprises,Legacy Modernization,43757,2025-08-18
+154,Dynamic Systems,AI Implementation - Dynamic Systems,AI Implementation,36485,2025-10-06
+155,Smart Digital,Data Analytics - Smart Digital,Data Analytics,53333,2025-10-02
+156,NextGen Enterprises,Data Analytics - NextGen Enterprises,Data Analytics,67065,2025-04-23
+157,Prime Systems,IT Support Retainer - Prime Systems,IT Support Retainer,11141,2025-12-19
+158,Smart Networks,Cloud Migration - Smart Networks,Cloud Migration,159580,2025-08-24
+159,Tech Networks,Data Analytics - Tech Networks,Data Analytics,84153,2025-03-31
+160,Dynamic Group,Blockchain POC - Dynamic Group,Blockchain POC,67442,2025-10-13
+161,Alpha Innovations,Blockchain POC - Alpha Innovations,Blockchain POC,78771,2025-06-21
+162,Tech Systems,DevOps setup - Tech Systems,DevOps setup,28608,2025-06-16
+163,Future Networks,AI Implementation - Future Networks,AI Implementation,91160,2025-08-02
+164,Tech Consulting,Blockchain POC - Tech Consulting,Blockchain POC,78893,2025-12-18
+165,Elite Systems,Cloud Migration - Elite Systems,Cloud Migration,105260,2025-08-26
+166,Dynamic Solutions,Cybersecurity Audit - Dynamic Solutions,Cybersecurity Audit,39388,2025-07-14
+167,Omega Innovations,Blockchain POC - Omega Innovations,Blockchain POC,69855,2025-11-28
+168,NextGen Systems,Mobile App Dev - NextGen Systems,Mobile App Dev,65152,2025-05-23
+169,Prime Innovations,Blockchain POC - Prime Innovations,Blockchain POC,59971,2025-02-19
+170,Prime Solutions,Data Analytics - Prime Solutions,Data Analytics,30060,2025-09-27
+171,Elite Group,DevOps setup - Elite Group,DevOps setup,43190,2025-06-05
+172,Prime Innovations,Blockchain POC - Prime Innovations,Blockchain POC,68743,2025-12-12
+173,Smart Group,Data Analytics - Smart Group,Data Analytics,27068,2025-07-30
+174,Elite Labs,IT Support Retainer - Elite Labs,IT Support Retainer,13386,2025-12-01
+175,Global Labs,Cybersecurity Audit - Global Labs,Cybersecurity Audit,36324,2025-07-24
+176,Dynamic Group,Legacy Modernization - Dynamic Group,Legacy Modernization,60316,2025-10-15
+177,NextGen Systems,Cloud Migration - NextGen Systems,Cloud Migration,131836,2025-11-03
+178,Dynamic Group,Cybersecurity Audit - Dynamic Group,Cybersecurity Audit,44502,2025-12-01
+179,Prime Labs,Blockchain POC - Prime Labs,Blockchain POC,86593,2025-07-20
+180,Alpha Soft,Mobile App Dev - Alpha Soft,Mobile App Dev,30660,2025-01-12
+181,Elite Networks,Blockchain POC - Elite Networks,Blockchain POC,35494,2025-10-16
+182,Elite Innovations,Blockchain POC - Elite Innovations,Blockchain POC,23717,2025-12-02
+183,Future Innovations,AI Implementation - Future Innovations,AI Implementation,94495,2025-09-04
+184,NextGen Systems,Blockchain POC - NextGen Systems,Blockchain POC,26689,2025-09-23
+185,NextGen Consulting,AI Implementation - NextGen Consulting,AI Implementation,114427,2025-05-08
+186,Omega Innovations,Cybersecurity Audit - Omega Innovations,Cybersecurity Audit,36295,2025-01-30
+187,Dynamic Solutions,Cybersecurity Audit - Dynamic Solutions,Cybersecurity Audit,34171,2025-02-22
+188,Prime Solutions,Blockchain POC - Prime Solutions,Blockchain POC,44676,2025-10-04
+189,Omega Systems,Custom ERP Dev - Omega Systems,Custom ERP Dev,103642,2025-08-05
+190,Future Innovations,Legacy Modernization - Future Innovations,Legacy Modernization,72807,2025-04-24
+191,Omega Digital,Mobile App Dev - Omega Digital,Mobile App Dev,58723,2025-04-18
+192,Global Consulting,Cloud Migration - Global Consulting,Cloud Migration,126035,2025-07-12
+193,Elite Innovations,AI Implementation - Elite Innovations,AI Implementation,80308,2025-03-24
+194,Future Enterprises,Legacy Modernization - Future Enterprises,Legacy Modernization,145429,2025-10-28
+195,Alpha Systems,Legacy Modernization - Alpha Systems,Legacy Modernization,49204,2025-07-27
+196,Dynamic Innovations,Data Analytics - Dynamic Innovations,Data Analytics,86420,2025-03-20
+197,Dynamic Innovations,Legacy Modernization - Dynamic Innovations,Legacy Modernization,157310,2025-08-21
+198,Future Labs,Data Analytics - Future Labs,Data Analytics,110698,2025-04-06
+199,NextGen Group,Blockchain POC - NextGen Group,Blockchain POC,83968,2025-09-24
+200,Future Enterprises,Blockchain POC - Future Enterprises,Blockchain POC,60086,2025-11-24
+201,Dynamic Solutions,Cloud Migration - Dynamic Solutions,Cloud Migration,170685,2025-06-09
+202,Tech Group,Mobile App Dev - Tech Group,Mobile App Dev,25744,2025-08-23
+203,Global Networks,Blockchain POC - Global Networks,Blockchain POC,21013,2025-12-29
+204,Prime Group,Data Analytics - Prime Group,Data Analytics,76339,2025-02-18
+205,NextGen Soft,Blockchain POC - NextGen Soft,Blockchain POC,68975,2025-10-16
+206,Dynamic Soft,IT Support Retainer - Dynamic Soft,IT Support Retainer,8579,2025-03-12
+207,Smart Enterprises,Blockchain POC - Smart Enterprises,Blockchain POC,47296,2025-12-06
+208,Elite Systems,AI Implementation - Elite Systems,AI Implementation,42608,2025-02-01
+209,NextGen Digital,Data Analytics - NextGen Digital,Data Analytics,105528,2025-01-11
+210,Elite Enterprises,Blockchain POC - Elite Enterprises,Blockchain POC,33869,2025-03-30
+211,Global Enterprises,Blockchain POC - Global Enterprises,Blockchain POC,52155,2025-08-02
+212,Elite Group,Mobile App Dev - Elite Group,Mobile App Dev,62539,2025-08-16
+213,Elite Enterprises,Blockchain POC - Elite Enterprises,Blockchain POC,45483,2025-07-04
+214,Alpha Consulting,Custom ERP Dev - Alpha Consulting,Custom ERP Dev,130024,2025-12-21
+215,Global Solutions,Blockchain POC - Global Solutions,Blockchain POC,40146,2025-02-10
+216,NextGen Enterprises,Legacy Modernization - NextGen Enterprises,Legacy Modernization,104216,2025-06-16
+217,Alpha Soft,Blockchain POC - Alpha Soft,Blockchain POC,85667,2025-12-24
+218,Tech Innovations,IT Support Retainer - Tech Innovations,IT Support Retainer,17093,2025-03-05
+219,Global Consulting,Mobile App Dev - Global Consulting,Mobile App Dev,46971,2025-03-29
+220,Future Enterprises,Blockchain POC - Future Enterprises,Blockchain POC,73853,2025-10-31
+221,Alpha Systems,Blockchain POC - Alpha Systems,Blockchain POC,33947,2025-07-19
+222,Alpha Solutions,Blockchain POC - Alpha Solutions,Blockchain POC,40424,2025-07-10
+223,Elite Labs,Mobile App Dev - Elite Labs,Mobile App Dev,36862,2025-12-22
+224,Smart Solutions,IT Support Retainer - Smart Solutions,IT Support Retainer,8392,2025-08-22
+225,Global Consulting,Blockchain POC - Global Consulting,Blockchain POC,58237,2025-03-03
+226,Elite Labs,Cybersecurity Audit - Elite Labs,Cybersecurity Audit,27076,2025-01-29
+227,Smart Consulting,Blockchain POC - Smart Consulting,Blockchain POC,93454,2025-04-30
+228,Global Digital,DevOps setup - Global Digital,DevOps setup,17351,2025-05-22
+229,Dynamic Soft,Data Analytics - Dynamic Soft,Data Analytics,79392,2025-05-13
+230,Tech Innovations,Cloud Migration - Tech Innovations,Cloud Migration,121937,2025-10-22
+231,Tech Digital,Cybersecurity Audit - Tech Digital,Cybersecurity Audit,39219,2025-02-22
+232,Omega Digital,Blockchain POC - Omega Digital,Blockchain POC,96377,2025-01-12
+233,Tech Enterprises,Cloud Migration - Tech Enterprises,Cloud Migration,107849,2025-01-05
+234,Prime Solutions,Blockchain POC - Prime Solutions,Blockchain POC,58554,2025-01-11
+235,Omega Group,Blockchain POC - Omega Group,Blockchain POC,64803,2025-09-29
+236,NextGen Innovations,Blockchain POC - NextGen Innovations,Blockchain POC,78130,2025-10-17
+237,Smart Enterprises,IT Support Retainer - Smart Enterprises,IT Support Retainer,5267,2025-05-09
+238,Elite Systems,Cloud Migration - Elite Systems,Cloud Migration,97837,2025-10-28
+239,NextGen Soft,Legacy Modernization - NextGen Soft,Legacy Modernization,93232,2025-06-11
+240,Elite Group,Blockchain POC - Elite Group,Blockchain POC,88272,2025-10-08
+241,Dynamic Consulting,Blockchain POC - Dynamic Consulting,Blockchain POC,92913,2025-12-12
+242,Prime Solutions,Blockchain POC - Prime Solutions,Blockchain POC,57781,2025-07-09
+243,Global Consulting,Blockchain POC - Global Consulting,Blockchain POC,94196,2025-07-24
+244,Elite Enterprises,Cloud Migration - Elite Enterprises,Cloud Migration,91845,2025-12-13
+245,Tech Consulting,Custom ERP Dev - Tech Consulting,Custom ERP Dev,491975,2025-05-27
+246,Smart Soft,Cybersecurity Audit - Smart Soft,Cybersecurity Audit,24869,2025-01-25
+247,Tech Enterprises,Cybersecurity Audit - Tech Enterprises,Cybersecurity Audit,17650,2025-05-09
+248,Smart Soft,AI Implementation - Smart Soft,AI Implementation,116156,2025-03-14
+249,Prime Labs,Legacy Modernization - Prime Labs,Legacy Modernization,49660,2025-01-23
+250,NextGen Innovations,Legacy Modernization - NextGen Innovations,Legacy Modernization,85698,2025-08-20
+251,Future Soft,Blockchain POC - Future Soft,Blockchain POC,82599,2025-07-05
+252,Smart Group,Blockchain POC - Smart Group,Blockchain POC,84242,2025-03-24
+253,Future Systems,Blockchain POC - Future Systems,Blockchain POC,30161,2025-12-05
+254,NextGen Soft,IT Support Retainer - NextGen Soft,IT Support Retainer,17695,2025-05-02
+255,Global Labs,Data Analytics - Global Labs,Data Analytics,60137,2025-01-25
+256,Future Digital,Mobile App Dev - Future Digital,Mobile App Dev,37091,2025-02-26
+257,Tech Group,Custom ERP Dev - Tech Group,Custom ERP Dev,149184,2025-11-25
+258,Tech Group,AI Implementation - Tech Group,AI Implementation,73254,2025-12-04
+259,Elite Consulting,Blockchain POC - Elite Consulting,Blockchain POC,20629,2025-11-11
+260,Tech Soft,Cybersecurity Audit - Tech Soft,Cybersecurity Audit,28488,2025-11-26
+261,Alpha Digital,Legacy Modernization - Alpha Digital,Legacy Modernization,97256,2025-11-05
+262,NextGen Solutions,DevOps setup - NextGen Solutions,DevOps setup,48532,2025-04-10
+263,Global Networks,Blockchain POC - Global Networks,Blockchain POC,35239,2025-07-11
+264,Smart Group,Blockchain POC - Smart Group,Blockchain POC,73211,2025-04-02
+265,NextGen Enterprises,Blockchain POC - NextGen Enterprises,Blockchain POC,64176,2025-11-03
+266,Prime Systems,Blockchain POC - Prime Systems,Blockchain POC,34711,2025-01-13
+267,Smart Group,Mobile App Dev - Smart Group,Mobile App Dev,46502,2025-12-15
+268,Future Networks,Blockchain POC - Future Networks,Blockchain POC,22109,2025-04-07
+269,Alpha Solutions,Blockchain POC - Alpha Solutions,Blockchain POC,24864,2025-12-24
+270,Elite Systems,Blockchain POC - Elite Systems,Blockchain POC,40534,2025-10-16
+271,Global Soft,Blockchain POC - Global Soft,Blockchain POC,33235,2025-05-29
+272,Dynamic Labs,Custom ERP Dev - Dynamic Labs,Custom ERP Dev,453417,2025-12-07
+273,Dynamic Group,Blockchain POC - Dynamic Group,Blockchain POC,62085,2025-08-04
+274,Alpha Systems,Blockchain POC - Alpha Systems,Blockchain POC,84362,2025-01-01
+275,Future Consulting,Blockchain POC - Future Consulting,Blockchain POC,90033,2025-06-17
+276,Tech Consulting,Legacy Modernization - Tech Consulting,Legacy Modernization,123990,2025-09-30
+277,Alpha Digital,Blockchain POC - Alpha Digital,Blockchain POC,42199,2025-02-17
+278,Alpha Networks,Blockchain POC - Alpha Networks,Blockchain POC,46079,2025-03-17
+279,Global Labs,Blockchain POC - Global Labs,Blockchain POC,81367,2025-01-15
+280,Prime Group,Blockchain POC - Prime Group,Blockchain POC,77355,2025-05-09
+281,Future Digital,Blockchain POC - Future Digital,Blockchain POC,97192,2025-07-17
+282,Omega Networks,Blockchain POC - Omega Networks,Blockchain POC,44447,2025-12-23
+283,NextGen Solutions,Blockchain POC - NextGen Solutions,Blockchain POC,34306,2025-10-12
+284,Elite Systems,Mobile App Dev - Elite Systems,Mobile App Dev,62120,2025-03-31
+285,Alpha Digital,Blockchain POC - Alpha Digital,Blockchain POC,69498,2025-10-20
+286,Global Labs,IT Support Retainer - Global Labs,IT Support Retainer,5951,2025-05-28
+287,Alpha Enterprises,Blockchain POC - Alpha Enterprises,Blockchain POC,33309,2025-11-20
+288,Prime Innovations,Legacy Modernization - Prime Innovations,Legacy Modernization,55006,2025-01-02
+289,Omega Solutions,AI Implementation - Omega Solutions,AI Implementation,84370,2025-05-31
+290,Global Consulting,Mobile App Dev - Global Consulting,Mobile App Dev,44285,2025-07-06
+291,Tech Systems,Cybersecurity Audit - Tech Systems,Cybersecurity Audit,45586,2025-10-19
+292,Dynamic Soft,Data Analytics - Dynamic Soft,Data Analytics,70813,2025-12-25
+293,Alpha Digital,Mobile App Dev - Alpha Digital,Mobile App Dev,57892,2025-08-22
+294,Prime Networks,Cybersecurity Audit - Prime Networks,Cybersecurity Audit,49821,2025-09-22
+295,Future Systems,Custom ERP Dev - Future Systems,Custom ERP Dev,201884,2025-08-31
+296,Alpha Innovations,Data Analytics - Alpha Innovations,Data Analytics,53500,2025-06-13
+297,Elite Solutions,Blockchain POC - Elite Solutions,Blockchain POC,57392,2025-03-31
+298,Tech Solutions,Cybersecurity Audit - Tech Solutions,Cybersecurity Audit,47281,2025-03-20
+299,Prime Soft,Blockchain POC - Prime Soft,Blockchain POC,34592,2025-09-25
+300,Global Labs,Blockchain POC - Global Labs,Blockchain POC,23290,2025-04-01
+301,Prime Solutions,Blockchain POC - Prime Solutions,Blockchain POC,74874,2025-05-28
+302,NextGen Soft,Custom ERP Dev - NextGen Soft,Custom ERP Dev,470915,2025-03-14
+303,NextGen Systems,Blockchain POC - NextGen Systems,Blockchain POC,76102,2025-09-27
+304,Alpha Group,Custom ERP Dev - Alpha Group,Custom ERP Dev,493468,2025-12-04
+305,Elite Enterprises,Blockchain POC - Elite Enterprises,Blockchain POC,20914,2025-07-10
+306,Future Soft,Data Analytics - Future Soft,Data Analytics,75702,2025-05-26
+307,Dynamic Soft,Custom ERP Dev - Dynamic Soft,Custom ERP Dev,391356,2025-07-23
+308,Smart Solutions,AI Implementation - Smart Solutions,AI Implementation,141337,2025-02-22
+309,Elite Soft,Mobile App Dev - Elite Soft,Mobile App Dev,21310,2025-06-21
+310,Tech Innovations,Blockchain POC - Tech Innovations,Blockchain POC,72313,2025-11-28
+311,Omega Enterprises,Legacy Modernization - Omega Enterprises,Legacy Modernization,84373,2025-10-03
+312,NextGen Labs,Cybersecurity Audit - NextGen Labs,Cybersecurity Audit,21134,2025-10-01
+313,NextGen Soft,Mobile App Dev - NextGen Soft,Mobile App Dev,64580,2025-08-01
+314,Omega Networks,Blockchain POC - Omega Networks,Blockchain POC,31695,2025-12-14
+315,Future Networks,IT Support Retainer - Future Networks,IT Support Retainer,18491,2025-05-20
+316,Global Solutions,Blockchain POC - Global Solutions,Blockchain POC,60302,2025-05-01
+317,NextGen Enterprises,Mobile App Dev - NextGen Enterprises,Mobile App Dev,54179,2025-05-20
+318,Smart Innovations,Custom ERP Dev - Smart Innovations,Custom ERP Dev,469469,2025-02-20
+319,Dynamic Labs,Blockchain POC - Dynamic Labs,Blockchain POC,29217,2025-03-16
+320,Global Systems,Legacy Modernization - Global Systems,Legacy Modernization,147538,2025-06-09
+321,Elite Labs,Cloud Migration - Elite Labs,Cloud Migration,158211,2025-03-13
+322,Prime Digital,Mobile App Dev - Prime Digital,Mobile App Dev,33268,2025-11-29
+323,NextGen Networks,Blockchain POC - NextGen Networks,Blockchain POC,69469,2025-01-24
+324,Future Innovations,DevOps setup - Future Innovations,DevOps setup,40250,2025-12-20
+325,Tech Solutions,AI Implementation - Tech Solutions,AI Implementation,115978,2025-05-18
+326,Future Systems,Data Analytics - Future Systems,Data Analytics,59406,2025-11-12
+327,Alpha Group,Blockchain POC - Alpha Group,Blockchain POC,22387,2025-09-08
+328,Alpha Digital,Data Analytics - Alpha Digital,Data Analytics,61981,2025-12-13
+329,Alpha Innovations,AI Implementation - Alpha Innovations,AI Implementation,133646,2025-07-23
+330,Alpha Soft,DevOps setup - Alpha Soft,DevOps setup,43185,2025-10-12
+331,Dynamic Consulting,Cybersecurity Audit - Dynamic Consulting,Cybersecurity Audit,46861,2025-06-05
+332,Smart Consulting,Legacy Modernization - Smart Consulting,Legacy Modernization,119593,2025-10-04
+333,Dynamic Innovations,Blockchain POC - Dynamic Innovations,Blockchain POC,86525,2025-01-11
+334,NextGen Consulting,DevOps setup - NextGen Consulting,DevOps setup,45084,2025-01-03
+335,Prime Labs,Blockchain POC - Prime Labs,Blockchain POC,26851,2025-11-14
+336,Global Networks,Cloud Migration - Global Networks,Cloud Migration,78750,2025-08-17
+337,Tech Labs,Blockchain POC - Tech Labs,Blockchain POC,71615,2025-02-13
+338,Global Networks,Data Analytics - Global Networks,Data Analytics,92564,2025-03-17
+339,Dynamic Enterprises,Blockchain POC - Dynamic Enterprises,Blockchain POC,41978,2025-03-06
+340,Smart Group,DevOps setup - Smart Group,DevOps setup,25320,2025-01-01
+341,Tech Digital,Mobile App Dev - Tech Digital,Mobile App Dev,23949,2025-02-15
+342,Tech Consulting,Blockchain POC - Tech Consulting,Blockchain POC,68857,2025-08-21
+343,Alpha Innovations,DevOps setup - Alpha Innovations,DevOps setup,30716,2025-05-21
+344,Omega Labs,Blockchain POC - Omega Labs,Blockchain POC,69808,2025-04-01
+345,Dynamic Systems,Blockchain POC - Dynamic Systems,Blockchain POC,23428,2025-07-06
+346,Elite Networks,Cloud Migration - Elite Networks,Cloud Migration,83638,2025-03-13
+347,Smart Innovations,Blockchain POC - Smart Innovations,Blockchain POC,84319,2025-11-29
+348,Omega Consulting,Blockchain POC - Omega Consulting,Blockchain POC,86040,2025-02-01
+349,Smart Enterprises,Cybersecurity Audit - Smart Enterprises,Cybersecurity Audit,41085,2025-10-18
+350,Prime Enterprises,IT Support Retainer - Prime Enterprises,IT Support Retainer,5510,2025-01-27
+351,Global Networks,Blockchain POC - Global Networks,Blockchain POC,22188,2025-04-09
+352,Tech Solutions,Blockchain POC - Tech Solutions,Blockchain POC,23300,2025-10-14
+353,Prime Networks,Data Analytics - Prime Networks,Data Analytics,60872,2025-10-26
+354,NextGen Soft,Blockchain POC - NextGen Soft,Blockchain POC,38357,2025-01-18
+355,Tech Labs,IT Support Retainer - Tech Labs,IT Support Retainer,11334,2025-05-31
+356,Elite Innovations,IT Support Retainer - Elite Innovations,IT Support Retainer,11254,2025-04-07
+357,Global Systems,AI Implementation - Global Systems,AI Implementation,92517,2025-08-02
+358,Alpha Labs,IT Support Retainer - Alpha Labs,IT Support Retainer,11699,2025-07-12
+359,Future Group,DevOps setup - Future Group,DevOps setup,35579,2025-10-16
+360,Global Labs,Blockchain POC - Global Labs,Blockchain POC,28190,2025-03-04
+361,Future Solutions,Blockchain POC - Future Solutions,Blockchain POC,92100,2025-02-01
+362,Future Innovations,Legacy Modernization - Future Innovations,Legacy Modernization,146440,2025-03-15
+363,Smart Systems,IT Support Retainer - Smart Systems,IT Support Retainer,14823,2025-01-12
+364,NextGen Innovations,Blockchain POC - NextGen Innovations,Blockchain POC,95265,2025-08-25
+365,Alpha Enterprises,Blockchain POC - Alpha Enterprises,Blockchain POC,97160,2025-05-16
+366,Omega Labs,Blockchain POC - Omega Labs,Blockchain POC,60960,2025-07-08
+367,Alpha Solutions,Cybersecurity Audit - Alpha Solutions,Cybersecurity Audit,14098,2025-04-20
+368,Prime Digital,DevOps setup - Prime Digital,DevOps setup,47677,2025-07-13
+369,Elite Digital,Blockchain POC - Elite Digital,Blockchain POC,39763,2025-10-02
+370,Tech Innovations,Blockchain POC - Tech Innovations,Blockchain POC,92998,2025-02-17
+371,Alpha Consulting,Data Analytics - Alpha Consulting,Data Analytics,78755,2025-10-08
+372,Tech Soft,Custom ERP Dev - Tech Soft,Custom ERP Dev,478845,2025-12-11
+373,Omega Systems,AI Implementation - Omega Systems,AI Implementation,87821,2025-12-13
+374,NextGen Innovations,DevOps setup - NextGen Innovations,DevOps setup,44758,2025-03-01
+375,Smart Systems,Data Analytics - Smart Systems,Data Analytics,57629,2025-01-05
+376,NextGen Networks,Legacy Modernization - NextGen Networks,Legacy Modernization,137300,2024-12-30
+377,NextGen Soft,Cybersecurity Audit - NextGen Soft,Cybersecurity Audit,18225,2025-03-18
+378,NextGen Enterprises,AI Implementation - NextGen Enterprises,AI Implementation,121375,2025-09-23
+379,Tech Networks,Custom ERP Dev - Tech Networks,Custom ERP Dev,197278,2025-07-04
+380,Tech Innovations,Data Analytics - Tech Innovations,Data Analytics,88427,2025-07-22
+381,Dynamic Systems,AI Implementation - Dynamic Systems,AI Implementation,60104,2025-09-15
+382,Prime Enterprises,Blockchain POC - Prime Enterprises,Blockchain POC,32709,2025-05-23
+383,Prime Innovations,Blockchain POC - Prime Innovations,Blockchain POC,34035,2025-02-09
+384,Omega Group,Data Analytics - Omega Group,Data Analytics,54880,2025-08-26
+385,NextGen Labs,DevOps setup - NextGen Labs,DevOps setup,58705,2025-03-09
+386,Tech Networks,Blockchain POC - Tech Networks,Blockchain POC,83345,2025-08-13
+387,Global Soft,DevOps setup - Global Soft,DevOps setup,53654,2025-07-03
+388,Dynamic Group,Blockchain POC - Dynamic Group,Blockchain POC,25611,2025-10-01
+389,Prime Soft,DevOps setup - Prime Soft,DevOps setup,23516,2025-07-26
+390,Alpha Networks,Custom ERP Dev - Alpha Networks,Custom ERP Dev,380813,2025-09-30
+391,Alpha Soft,Blockchain POC - Alpha Soft,Blockchain POC,28840,2025-11-19
+392,Dynamic Group,Blockchain POC - Dynamic Group,Blockchain POC,36322,2025-11-02
+393,Tech Networks,Blockchain POC - Tech Networks,Blockchain POC,24273,2025-08-03
+394,Dynamic Consulting,Custom ERP Dev - Dynamic Consulting,Custom ERP Dev,221806,2025-04-22
+395,Alpha Networks,Legacy Modernization - Alpha Networks,Legacy Modernization,119655,2025-01-29
+396,Elite Consulting,Blockchain POC - Elite Consulting,Blockchain POC,58431,2025-02-25
+397,Dynamic Labs,AI Implementation - Dynamic Labs,AI Implementation,125082,2025-07-15
+398,Prime Soft,AI Implementation - Prime Soft,AI Implementation,74754,2025-07-14
+399,Global Labs,Legacy Modernization - Global Labs,Legacy Modernization,143889,2025-09-16
+400,Elite Enterprises,Cloud Migration - Elite Enterprises,Cloud Migration,90675,2025-09-22
+401,Elite Solutions,Custom ERP Dev - Elite Solutions,Custom ERP Dev,392521,2025-06-19
+402,Tech Networks,Custom ERP Dev - Tech Networks,Custom ERP Dev,411676,2025-12-06
+403,Alpha Enterprises,Custom ERP Dev - Alpha Enterprises,Custom ERP Dev,375520,2025-05-16
+404,Tech Labs,Blockchain POC - Tech Labs,Blockchain POC,55350,2025-06-02
+405,Omega Enterprises,IT Support Retainer - Omega Enterprises,IT Support Retainer,10048,2025-09-29
+406,Elite Group,Blockchain POC - Elite Group,Blockchain POC,98709,2025-09-27
+407,Tech Solutions,Cybersecurity Audit - Tech Solutions,Cybersecurity Audit,41569,2025-07-07
+408,Omega Group,Mobile App Dev - Omega Group,Mobile App Dev,37002,2025-02-11
+409,Smart Labs,IT Support Retainer - Smart Labs,IT Support Retainer,13813,2025-10-26
+410,Future Networks,IT Support Retainer - Future Networks,IT Support Retainer,16107,2025-12-22
+411,NextGen Networks,Cloud Migration - NextGen Networks,Cloud Migration,199466,2025-02-11
+412,Alpha Consulting,Mobile App Dev - Alpha Consulting,Mobile App Dev,67069,2025-06-27
+413,Elite Enterprises,Cybersecurity Audit - Elite Enterprises,Cybersecurity Audit,34937,2025-03-01
+414,Future Soft,Blockchain POC - Future Soft,Blockchain POC,56879,2025-05-28
+415,NextGen Group,Blockchain POC - NextGen Group,Blockchain POC,63444,2025-01-25
+416,Prime Group,AI Implementation - Prime Group,AI Implementation,48814,2025-04-05
+417,Omega Soft,Cybersecurity Audit - Omega Soft,Cybersecurity Audit,14229,2025-10-17
+418,Prime Soft,Cloud Migration - Prime Soft,Cloud Migration,113803,2025-10-26
+419,Dynamic Soft,Blockchain POC - Dynamic Soft,Blockchain POC,53819,2024-12-30
+420,Prime Labs,Data Analytics - Prime Labs,Data Analytics,51318,2025-10-03
+421,Elite Digital,Data Analytics - Elite Digital,Data Analytics,90012,2025-05-17
+422,Dynamic Networks,Mobile App Dev - Dynamic Networks,Mobile App Dev,73717,2025-05-24
+423,Alpha Digital,Legacy Modernization - Alpha Digital,Legacy Modernization,137175,2025-02-12
+424,Alpha Soft,DevOps setup - Alpha Soft,DevOps setup,30832,2025-12-24
+425,Elite Enterprises,Blockchain POC - Elite Enterprises,Blockchain POC,50461,2025-09-18
+426,NextGen Solutions,Blockchain POC - NextGen Solutions,Blockchain POC,69984,2025-05-08
+427,Smart Digital,Mobile App Dev - Smart Digital,Mobile App Dev,48094,2025-11-20
+428,Smart Digital,Data Analytics - Smart Digital,Data Analytics,104853,2025-02-21
+429,Omega Networks,IT Support Retainer - Omega Networks,IT Support Retainer,17805,2025-12-25
+430,Dynamic Enterprises,Mobile App Dev - Dynamic Enterprises,Mobile App Dev,26098,2025-12-28
+431,NextGen Solutions,Legacy Modernization - NextGen Solutions,Legacy Modernization,52516,2025-05-31
+432,Global Solutions,IT Support Retainer - Global Solutions,IT Support Retainer,12693,2025-08-16
+433,Prime Enterprises,Data Analytics - Prime Enterprises,Data Analytics,42825,2024-12-31
+434,Tech Consulting,DevOps setup - Tech Consulting,DevOps setup,49590,2025-05-30
+435,Elite Group,Blockchain POC - Elite Group,Blockchain POC,82907,2025-06-23
+436,Elite Group,Blockchain POC - Elite Group,Blockchain POC,42478,2025-11-20
+437,Future Labs,Cybersecurity Audit - Future Labs,Cybersecurity Audit,41264,2025-04-25
+438,Tech Systems,Data Analytics - Tech Systems,Data Analytics,49663,2025-12-25
+439,NextGen Consulting,Cloud Migration - NextGen Consulting,Cloud Migration,88259,2025-05-01
+440,Future Labs,Blockchain POC - Future Labs,Blockchain POC,60534,2024-12-31
+441,Alpha Systems,Custom ERP Dev - Alpha Systems,Custom ERP Dev,203690,2025-03-11
+442,Dynamic Digital,DevOps setup - Dynamic Digital,DevOps setup,29844,2025-12-23
+443,NextGen Group,Blockchain POC - NextGen Group,Blockchain POC,79299,2025-11-24
+444,Prime Enterprises,Blockchain POC - Prime Enterprises,Blockchain POC,52410,2025-01-18
+445,Global Soft,Blockchain POC - Global Soft,Blockchain POC,71289,2025-01-14
+446,Prime Enterprises,Custom ERP Dev - Prime Enterprises,Custom ERP Dev,427155,2025-04-09
+447,Prime Soft,Blockchain POC - Prime Soft,Blockchain POC,51496,2025-09-25
+448,Elite Labs,Legacy Modernization - Elite Labs,Legacy Modernization,126791,2025-08-25
+449,Prime Consulting,Blockchain POC - Prime Consulting,Blockchain POC,22090,2025-08-30
+450,Prime Solutions,Blockchain POC - Prime Solutions,Blockchain POC,77441,2025-09-12
+451,Elite Labs,Mobile App Dev - Elite Labs,Mobile App Dev,68166,2025-10-12
+452,NextGen Labs,Blockchain POC - NextGen Labs,Blockchain POC,36031,2025-08-26
+453,Tech Systems,Mobile App Dev - Tech Systems,Mobile App Dev,31999,2025-07-02
+454,Elite Digital,Custom ERP Dev - Elite Digital,Custom ERP Dev,324156,2025-02-26
+455,Global Digital,IT Support Retainer - Global Digital,IT Support Retainer,8818,2025-01-09
+456,Global Consulting,Blockchain POC - Global Consulting,Blockchain POC,95299,2025-07-18
+457,Smart Consulting,Custom ERP Dev - Smart Consulting,Custom ERP Dev,487179,2025-07-18
+458,Global Soft,Legacy Modernization - Global Soft,Legacy Modernization,145929,2025-05-20
+459,Global Digital,Blockchain POC - Global Digital,Blockchain POC,77906,2025-01-24
+460,NextGen Soft,Custom ERP Dev - NextGen Soft,Custom ERP Dev,456217,2025-07-11
+461,Smart Soft,Legacy Modernization - Smart Soft,Legacy Modernization,118259,2025-07-07
+462,Smart Systems,Cloud Migration - Smart Systems,Cloud Migration,148471,2025-08-12
+463,Future Digital,Legacy Modernization - Future Digital,Legacy Modernization,70787,2025-10-19
+464,NextGen Digital,Blockchain POC - NextGen Digital,Blockchain POC,85575,2025-10-31
+465,Elite Systems,Custom ERP Dev - Elite Systems,Custom ERP Dev,150897,2025-08-09
+466,Elite Consulting,Blockchain POC - Elite Consulting,Blockchain POC,92591,2025-09-21
+467,Alpha Soft,Cybersecurity Audit - Alpha Soft,Cybersecurity Audit,24614,2025-03-24
+468,Tech Enterprises,Cloud Migration - Tech Enterprises,Cloud Migration,134245,2025-03-29
+469,Global Labs,Cloud Migration - Global Labs,Cloud Migration,185412,2025-11-16
+470,Prime Digital,IT Support Retainer - Prime Digital,IT Support Retainer,19190,2025-07-01
+471,Tech Soft,DevOps setup - Tech Soft,DevOps setup,27478,2025-05-24
+472,Tech Innovations,Blockchain POC - Tech Innovations,Blockchain POC,79345,2025-04-28
+473,Smart Enterprises,Blockchain POC - Smart Enterprises,Blockchain POC,97249,2025-12-27
+474,Future Networks,Blockchain POC - Future Networks,Blockchain POC,93806,2025-10-23
+475,Global Consulting,Custom ERP Dev - Global Consulting,Custom ERP Dev,465565,2025-08-14
+476,Future Consulting,AI Implementation - Future Consulting,AI Implementation,77313,2025-03-03
+477,NextGen Solutions,Data Analytics - NextGen Solutions,Data Analytics,34802,2025-09-21
+478,Tech Digital,Legacy Modernization - Tech Digital,Legacy Modernization,78097,2025-11-17
+479,NextGen Consulting,AI Implementation - NextGen Consulting,AI Implementation,140019,2025-09-19
+480,Omega Consulting,Blockchain POC - Omega Consulting,Blockchain POC,51445,2025-10-21
+481,Tech Innovations,Mobile App Dev - Tech Innovations,Mobile App Dev,77751,2025-11-06
+482,Global Innovations,Blockchain POC - Global Innovations,Blockchain POC,88465,2025-10-18
+483,Global Labs,Blockchain POC - Global Labs,Blockchain POC,88530,2025-09-14
+484,Alpha Digital,Data Analytics - Alpha Digital,Data Analytics,107245,2025-05-28
+485,Prime Digital,Blockchain POC - Prime Digital,Blockchain POC,94011,2025-11-26
+486,Tech Systems,Data Analytics - Tech Systems,Data Analytics,109637,2025-01-14
+487,Future Group,IT Support Retainer - Future Group,IT Support Retainer,8237,2025-02-01
+488,Future Innovations,Blockchain POC - Future Innovations,Blockchain POC,49934,2025-01-06
+489,Alpha Labs,Legacy Modernization - Alpha Labs,Legacy Modernization,147364,2025-03-10
+490,Tech Soft,Blockchain POC - Tech Soft,Blockchain POC,71647,2025-06-13
+491,Future Soft,Custom ERP Dev - Future Soft,Custom ERP Dev,312250,2025-09-10
+492,Prime Group,IT Support Retainer - Prime Group,IT Support Retainer,15432,2025-01-08
+493,NextGen Networks,Mobile App Dev - NextGen Networks,Mobile App Dev,29809,2025-02-16
+494,Smart Digital,Blockchain POC - Smart Digital,Blockchain POC,71397,2025-05-26
+495,Smart Systems,IT Support Retainer - Smart Systems,IT Support Retainer,16139,2025-06-26
+496,Dynamic Networks,AI Implementation - Dynamic Networks,AI Implementation,126124,2025-04-27
+497,Global Solutions,Cybersecurity Audit - Global Solutions,Cybersecurity Audit,30978,2025-10-17
+498,Alpha Labs,IT Support Retainer - Alpha Labs,IT Support Retainer,9781,2025-09-29
+499,Tech Enterprises,Cloud Migration - Tech Enterprises,Cloud Migration,162967,2025-04-26
+500,NextGen Group,Data Analytics - NextGen Group,Data Analytics,44924,2025-07-25
+501,NextGen Innovations,Cloud Migration - NextGen Innovations,Cloud Migration,134267,2025-03-02
+502,Smart Group,DevOps setup - Smart Group,DevOps setup,42319,2025-01-29
+503,Elite Networks,Mobile App Dev - Elite Networks,Mobile App Dev,79098,2025-12-28
+504,Prime Consulting,Mobile App Dev - Prime Consulting,Mobile App Dev,44866,2025-05-16
+505,Dynamic Soft,Mobile App Dev - Dynamic Soft,Mobile App Dev,67622,2025-04-06
+506,Omega Networks,IT Support Retainer - Omega Networks,IT Support Retainer,17748,2025-03-09
+507,Global Consulting,Custom ERP Dev - Global Consulting,Custom ERP Dev,333466,2025-03-01
+508,Global Systems,Blockchain POC - Global Systems,Blockchain POC,63939,2025-10-20
+509,Elite Solutions,DevOps setup - Elite Solutions,DevOps setup,57897,2025-09-24
+510,Alpha Digital,Cloud Migration - Alpha Digital,Cloud Migration,113698,2025-02-27
+511,NextGen Group,Blockchain POC - NextGen Group,Blockchain POC,64051,2025-09-24
+512,Omega Networks,Blockchain POC - Omega Networks,Blockchain POC,24378,2025-05-06
+513,Global Soft,Blockchain POC - Global Soft,Blockchain POC,74085,2025-02-21
+514,Tech Group,Data Analytics - Tech Group,Data Analytics,44421,2025-09-02
+515,Global Group,Blockchain POC - Global Group,Blockchain POC,24880,2025-08-06
+516,Global Labs,Cybersecurity Audit - Global Labs,Cybersecurity Audit,26743,2025-10-02
+517,Global Solutions,IT Support Retainer - Global Solutions,IT Support Retainer,17595,2025-02-17
+518,Dynamic Labs,IT Support Retainer - Dynamic Labs,IT Support Retainer,10623,2025-05-17
+519,Alpha Consulting,Custom ERP Dev - Alpha Consulting,Custom ERP Dev,161508,2025-06-05
+520,Elite Enterprises,Blockchain POC - Elite Enterprises,Blockchain POC,77404,2025-03-10

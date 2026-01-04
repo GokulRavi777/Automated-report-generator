@@ -1,0 +1,13 @@
+{
+    "input_file": "customers.csv",
+    "output_dir": "reports",
+    "date_column": "date",
+    "reports": [
+        {"name": "daily", "days": 1},
+        {"name": "weekly", "days": 7},
+        {"name": "monthly", "days": 30},
+        {"name": "quarterly", "days": 90},
+        {"name": "yearly", "days": 365}
+    ],
+    "chart_title": "Revenue by Service Type"
+}
