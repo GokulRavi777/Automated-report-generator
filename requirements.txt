@@ -1,0 +1,5 @@
+pandas
+openpyxl
+pyinstaller
+et-xmlfile
+tk
